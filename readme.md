@@ -1,17 +1,3 @@
----
-title:  「机器学习-李宏毅」:HW1-Predict PM2.5
-date: 2020/04/06#
-description: #
-categories: 机器学习-李宏毅
-tags: 
-- 机器学习
-- Regression
-toc: true
-thumbnail: /gallery/thumbnails/80544935_p0_master1200.jpg
-banner: #
-comments: #true or false
-
----
 在本篇文章中，用手刻Adagrad完成了「机器学习-李宏毅」的HW1-预测PM2.5的作业。其中包括对数据的处理，训练模型，预测，并使用sklearn toolkit的结果进行比较。
 有关HW1的相关数据、源代码、预测结果等，欢迎光临小透明的[GitHub](https://github.com/f1ed/ML-HW1)  
 
